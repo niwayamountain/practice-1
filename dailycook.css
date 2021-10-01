@@ -1,0 +1,142 @@
+html {
+
+}
+
+body{
+    margin:0 auto;
+ 
+}
+
+header, footer, body, div{
+    background-color: #ffffff;
+    margin:0 auto;
+    padding:0 30px;
+    max-width:1200px;
+}
+
+li{
+list-style:none;
+}
+
+.header_list{
+    float: right;
+    padding:40px;
+}
+
+.logo{
+    height:auto;
+    width:190px;
+    float:left;
+    padding: 0 40px;
+}
+
+table{
+    margin: auto;
+    width:100%;
+}
+
+td{
+    font-family:serif;
+    font-size: 20px;
+    font-weight:500;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+.main{
+    height:auto;
+    max-width:100%;
+    margin-top: 0px;
+}
+
+.main-text1{
+    text-align:center;
+    font-family:serif;
+    font-weight:500;
+    border-bottom:1px solid #888;
+    padding-bottom:55px;
+}
+
+.news{
+    border-bottom:1px solid #888;
+    padding:55 100 55 100;
+    font-family:serif;
+}
+
+.instagram{
+    display: flex;
+    padding:0;
+}
+
+.instagram-img{
+    width:50px;
+}
+
+.secret,.food,.shop,.delivery{
+    text-align:center;
+    font-family:serif;
+    font-size:20px;
+    padding-top:55px;
+}
+
+article{
+    font-family:serif;
+    font-weight:500;
+}
+
+.article-1{
+    display: flex;
+    margin: 0;
+    padding: 48 0;
+    justify-content: space-around;
+}
+
+.fresh-meat{
+    width:410px;
+    order: 1;
+}
+
+.section-1{
+    order: 2;
+}
+
+.article-2{
+    display: flex;
+    margin-top:0;
+    padding-top:0;
+    padding-bottom:55px;
+    justify-content: space-around;
+    border-bottom:1px solid #888;
+}
+
+.yakiba{
+    width:410;
+    height: 307.5px;
+    order: 1;
+}
+
+.article-3{
+    display: flex;
+    padding: 48 0;
+    justify-content: space-around;
+    border-bottom:1px solid #888;
+}
+
+.shop-photo{
+    width:300px;
+    order: 1;
+}
+
+.map{
+    order: 2;
+}
+
+.article-4{
+    display: flex;
+    padding: 48 0;
+    justify-content: space-around;
+    border-bottom:1px solid #888;
+}
