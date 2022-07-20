@@ -132,9 +132,9 @@ article{
 }
 
 .fresh-meat{
-    height:100%;
     order: 1;
-    max-width:400px;
+    max-width:100%;
+    height:auto;
 }
 
 .section-1{
@@ -158,7 +158,7 @@ article{
 
 .article-a{
     text-align: center;
-    max-width:100%;
+    width:100%;
 }
 
 .article-b{
