@@ -132,9 +132,9 @@ article{
 }
 
 .fresh-meat{
-    height:400px;
+    height:100%;
     order: 1;
-    max-width:100%;
+    max-width:400px;
 }
 
 .section-1{
